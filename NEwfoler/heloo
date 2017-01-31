@@ -1,0 +1,2 @@
+cd adamdoc.github.io
+echo "Hello World" > index.html
